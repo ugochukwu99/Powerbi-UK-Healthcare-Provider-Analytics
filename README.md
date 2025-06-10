@@ -22,3 +22,9 @@ This project uses data I obtained through the YouTube channel DataWithDecision36
 
 
 ## 🧭 Project Navigation
+
+ - 📈 [Business Questions & Analysis](Assets/final_project_info/project_information.md)
+ 
+ - 📁 [Final Project](Assets/final_project_info/Health_care_project.pbix)
+
+ - 📁[Dataset](Assets/Healthcare_dataset.csv)
