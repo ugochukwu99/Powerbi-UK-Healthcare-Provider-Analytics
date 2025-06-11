@@ -27,4 +27,4 @@ This project uses data I obtained through the YouTube channel DataWithDecision36
  
  - 📁 [Final Project](Assets/final_project_info/Health_care_project.pbix)
 
- - 📁[Dataset](Assets/Healthcare_dataset.csv)
+ - 📁[Dataset](Assets/Healthcare_dataset)
